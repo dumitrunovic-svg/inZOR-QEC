@@ -2,7 +2,7 @@
 
 **Hardware-native quantum error correction on IBM Quantum via inZOR-ND evolutionary search**
 
-Part of the [inZOR-ND](https://github.com/dumitrunovic-svg/inZOR-ND) research platform.
+Part of [inZOR-ND](https://github.com/dumitrunovic-svg/inZOR-ND) — an emergent discovery system.
 
 ---
 
@@ -74,7 +74,7 @@ exploration navigates these without gradient information.
 This repository contains research artifacts: experiment description, circuit figures,
 hardware results, and methodology summary.
 
-The inZOR-ND engine (biological evolution core, organism dynamics, world memory system)
+The inZOR-ND engine (ecological dynamics core, organism behavior, world memory system)
 is proprietary and not included here.
 
 For methodology questions, contact the author via GitHub.
